@@ -2,6 +2,14 @@
 
 NullSuite is a collection of Linux tools that absolutely did **not** start out as a collection of Linux tools.
 
+BTW its like 55-300mb of diskspace ¯\_(ツ)_/¯
+
+4 Mb is..well Nullsuite and its otherthings.
+
+51 Mb  is the things python needs. 
+
+245 Mb is things like VLC media player, and if you don't already have that...why do you hate yourself?
+
 # TL;DR
 
 I got annoyed. So I made a button for it
