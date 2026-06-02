@@ -194,20 +194,42 @@ May the odds be ever in your favor.
 
 Holy shit there is a lot of them. I'm sorry.
 
-### [NullWire](ProgramInfo/NullWire/NullWire.md) — Crackhead's Virtual Audio Cable/VoiceMeeter. Made for streaming. Then it escaped containment.
+### [NullWire](ProgramInfo/NullWire/NullWire.md):
 
-### [NullMonitor](ProgramInfo/NullMonitor/NullMonitor.md) — Monitor Setups, Cursor Teleporting, Wallpaper Manager... I'm tired.
+Crackhead's Virtual Audio Cable/VoiceMeeter. Made for streaming. Then it escaped containment.
 
-### [NullMidi](ProgramInfo/NullMidi/NullMidi.md) — Started because I wanted CloneHero drums... WITH SOUNDS! Ended with custom hardware, soldering, virtual MIDI devices, and an identity crisis. Send help.
 
-### [NullProton](ProgramInfo/NullProton/NullProton.md) — Want Proton without Steam? You're asking "why". I'm saying..."why not". Also a Linux launcher for the 3 games that run natively on Linux!
+### [NullMonitor](ProgramInfo/NullMonitor/NullMonitor.md):
 
-### [NullRip](ProgramInfo/NullRip/NullRip.md) — DVD In. Video Out. Simple as. I couldn't be fucked remembering 18000 HandBrakeCLI commands, and I have a Jellyfin to fill. (Blu-ray support coming when I get a god damn Blu-ray drive. I learned soldering for NullMidi. This won't stop me forever.)
+Monitor Setups, Cursor Teleporting, Wallpaper Manager... I'm tired.
 
-### [NullTracker](ProgramInfo/NullTracker/NullTracker.md) — Corporate Micromanagement, But For Yourself... Ok It's mostly to track myself(work stuff), but it could be useful for you too!
 
-### [NullMoji](ProgramInfo/NullMoji/NullMoji.md) — Linux Didn't Have An Emoji Picker. So I Made One. With blackjack, and hookers!
+### [NullMidi](ProgramInfo/NullMidi/NullMidi.md):
 
-### [NullGit](ProgramInfo/NullGit/NullGit.md) — Because "git add . && git commit -m" Gets Old Fast. Also. Checks if you're outdated. Handy. Use it for this repo lmao.
+Started because I wanted CloneHero drums... WITH SOUNDS! Ended with custom hardware, soldering, virtual MIDI devices, and an identity crisis. Send help.
+
+
+### [NullProton](ProgramInfo/NullProton/NullProton.md):
+
+Want Proton without Steam? You're asking "why". I'm saying..."why not". Also a Linux launcher for the 3 games that run natively on Linux!
+
+### [NullRip](ProgramInfo/NullRip/NullRip.md):
+
+DVD In. Video Out. Simple as. I couldn't be fucked remembering 18000 HandBrakeCLI commands, and I have a Jellyfin to fill. (Blu-ray support coming when I get a god damn Blu-ray drive. I learned soldering for NullMidi. This won't stop me forever.)
+
+
+### [NullTracker](ProgramInfo/NullTracker/NullTracker.md):
+
+Corporate Micromanagement, But For Yourself... Ok It's mostly to track myself(work stuff), but it could be useful for you too!
+
+
+### [NullMoji](ProgramInfo/NullMoji/NullMoji.md):
+
+Linux Didn't Have An Emoji Picker. So I Made One. With blackjack, and hookers!
+
+
+### [NullGit](ProgramInfo/NullGit/NullGit.md):
+
+Because "git add . && git commit -m" Gets Old Fast. Also. Checks if you're outdated. Handy. Use it for this repo lmao.
 
 
