@@ -129,9 +129,13 @@ Already confusing. But a wire can also be an audio output device...it DOES outpu
 
 So.                           
 ——————————————A1(headphones)
+
 ——————————————/
+
 FireFoxSound → BrowserWire (75% volume)
+
 ——————————————\
+
 ——————————————peakerWire(150% volume) → A2(MySpeakers)
 
 Now my Headphones hear 75% volume... and my speakers constantly put out 150% volume. well... 150% of 75% so. 185% volume. Yeah Wires can do that. 
